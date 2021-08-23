@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qv+eNZu1mySUQXFuGl3hLf+f42wZN8cmTjNwfaplqZC6pvFt4Hm9ir9R4wIkkiBpTsTC6VYpDpnWj99aY9o+GQ==",
+  "success": true,
+  "projectFilePath": "/media/HD/6 - Github/ApiRequest C#/ApiRequest.csproj",
+  "expectedPackageFiles": [
+    "/home/weverson/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/weverson/.nuget/packages/refit/6.0.94/refit.6.0.94.nupkg.sha512",
+    "/home/weverson/.nuget/packages/system.net.http.json/5.0.0/system.net.http.json.5.0.0.nupkg.sha512",
+    "/home/weverson/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/home/weverson/.nuget/packages/system.text.encodings.web/5.0.1/system.text.encodings.web.5.0.1.nupkg.sha512",
+    "/home/weverson/.nuget/packages/system.text.json/5.0.2/system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

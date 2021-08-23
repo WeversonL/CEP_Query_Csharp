@@ -1,0 +1,4 @@
+is_global = true
+build_property.RefitInternalNamespace = ApiRequest
+build_property.RootNamespace = ApiRequest
+build_property.ProjectDir = /media/HD/6 - Github/ApiRequest C#/

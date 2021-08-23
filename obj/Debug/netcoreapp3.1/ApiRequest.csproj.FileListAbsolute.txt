@@ -1,0 +1,63 @@
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.exe
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.deps.json
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.runtimeconfig.json
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.runtimeconfig.dev.json
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.dll
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.pdb
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/Refit.dll
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.csproj.AssemblyReference.cache
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.AssemblyInfoInputs.cache
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.AssemblyInfo.cs
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.csproj.CoreCompileInputs.cache
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.csproj.CopyComplete
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.dll
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.pdb
+C:/Users/wever/source/repos/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.genruntimeconfig.cache
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.deps.json
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.runtimeconfig.json
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.runtimeconfig.dev.json
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.dll
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/ApiRequest.pdb
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/Refit.dll
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/weverson/Downloads/ApiRequest/ApiRequest/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/weverson/Downloads/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.csproj.AssemblyReference.cache
+/home/weverson/Downloads/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.GeneratedMSBuildEditorConfig.editorconfig
+/home/weverson/Downloads/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.AssemblyInfoInputs.cache
+/home/weverson/Downloads/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.AssemblyInfo.cs
+/home/weverson/Downloads/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.csproj.CoreCompileInputs.cache
+/home/weverson/Downloads/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.csproj.CopyComplete
+/home/weverson/Downloads/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.dll
+/home/weverson/Downloads/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.pdb
+/home/weverson/Downloads/ApiRequest/ApiRequest/obj/Debug/netcoreapp3.1/ApiRequest.genruntimeconfig.cache
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/ApiRequest
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/ApiRequest.deps.json
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/ApiRequest.runtimeconfig.json
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/ApiRequest.runtimeconfig.dev.json
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/ApiRequest.dll
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/ApiRequest.pdb
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/Refit.dll
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/media/HD/6 - Github/ApiRequest C#/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/media/HD/6 - Github/ApiRequest C#/obj/Debug/netcoreapp3.1/ApiRequest.csproj.AssemblyReference.cache
+/media/HD/6 - Github/ApiRequest C#/obj/Debug/netcoreapp3.1/ApiRequest.GeneratedMSBuildEditorConfig.editorconfig
+/media/HD/6 - Github/ApiRequest C#/obj/Debug/netcoreapp3.1/ApiRequest.AssemblyInfoInputs.cache
+/media/HD/6 - Github/ApiRequest C#/obj/Debug/netcoreapp3.1/ApiRequest.AssemblyInfo.cs
+/media/HD/6 - Github/ApiRequest C#/obj/Debug/netcoreapp3.1/ApiRequest.csproj.CoreCompileInputs.cache
+/media/HD/6 - Github/ApiRequest C#/obj/Debug/netcoreapp3.1/ApiRequest.csproj.CopyComplete
+/media/HD/6 - Github/ApiRequest C#/obj/Debug/netcoreapp3.1/ApiRequest.dll
+/media/HD/6 - Github/ApiRequest C#/obj/Debug/netcoreapp3.1/ApiRequest.pdb
+/media/HD/6 - Github/ApiRequest C#/obj/Debug/netcoreapp3.1/ApiRequest.genruntimeconfig.cache
