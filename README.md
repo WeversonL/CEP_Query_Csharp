@@ -1,3 +1,7 @@
+# Project discontinued
+
+The project will not have updates or fixes at this time. Feel free to fork the project if you wish!
+
 # CEP Query in C#
 
 ### Program made in .NET Core.
